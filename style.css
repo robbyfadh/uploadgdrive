@@ -1,0 +1,7 @@
+#progress-wrp .status {
+    top: 50px;
+    left: 75px;
+    position: absolute;
+    display: inline-block;
+    color: #000000;
+  }
